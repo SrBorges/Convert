@@ -29,4 +29,5 @@ Caso o parâmetro seja inválido ele irá retornar uma negativa.
 * sys 
 * from pdf2docx import Converter (pip install pdf2docx)
 * aspose.words (pip install aspose-words)
+* Linux(Ubuntu ou Debian)
 
